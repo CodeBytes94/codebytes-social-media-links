@@ -58,7 +58,7 @@ html, body {
     box-shadow: 0.4rem 0.4rem 0.5rem rgba(10,10,10,0.3);
 }
 
-.fa, .fab {
+.fa, .fab, .fas {
     font-size: 1.1rem;
     margin-bottom: 0.5rem;
 }

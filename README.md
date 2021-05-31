@@ -4,7 +4,7 @@ https://codebytes94.github.io/codebytes-social-media-links/
 
 For free web development tutorials visit our webpage or YouTube channel!
 
-- Website: https://codebytesized.com/
+- Website: https://codebytes.blog/
 - YouTube: https://www.youtube.com/playlist?list=PLvvVSYZ1bhvJn2t6JkQl0W4ocyO23RDIC
 
 Follow us for more web development inspiration!
